@@ -1,0 +1,5 @@
+NMapName = {
+	NAME_FONT_SIZE = 150			# Font size used for drawing the map names
+	MIN_OPACITY = 0.9				# minimum opacity. Names hidden by draw distance will still fade to 0
+	MAX_OPACITY = 1
+}
